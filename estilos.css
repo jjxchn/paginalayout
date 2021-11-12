@@ -1,0 +1,23 @@
+body {
+    background-image: url('imagenes/eeee.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: aliceblue;
+}
+.malice-mizer {
+    height: 300px;
+    width: 300px;
+}
+div{
+    background-color: rgba(0, 0, 0, 0.356);
+    padding-top: 10px;
+}
+.title {
+    text-align: center;
+}
+.u {
+    height: 450px;
+    width: 400px;
+}
