@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap');
 body {
     background-image: url('imagenes/eeee.jpg');
     background-attachment: fixed;
@@ -20,4 +21,11 @@ div{
 .u {
     height: 450px;
     width: 400px;
+}
+.carrousel {
+    height: 600px;
+    width: 600px;
+}
+.titulo {
+    font-family: 'Yuji Syuku', serif;
 }
